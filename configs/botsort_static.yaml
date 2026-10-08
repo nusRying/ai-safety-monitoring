@@ -1,0 +1,15 @@
+# BoT-SORT for a fixed camera (webcam, CCTV): camera-motion compensation off.
+# Motion compensation estimates how the whole image moved between frames (optical flow over
+# the full frame). It helps a panning camera; on a camera that doesn't move it only costs time.
+tracker_type: botsort
+track_high_thresh: 0.25
+track_low_thresh: 0.1
+new_track_thresh: 0.25
+track_buffer: 30
+match_thresh: 0.8
+fuse_score: True
+gmc_method: none
+proximity_thresh: 0.5
+appearance_thresh: 0.8
+with_reid: False
+model: auto
