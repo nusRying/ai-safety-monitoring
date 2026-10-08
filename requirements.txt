@@ -1,0 +1,11 @@
+# Install PyTorch with CUDA first (see README "Quick start"), then: pip install -r requirements.txt
+ultralytics>=8.4
+supervision>=0.30
+transformers>=5.0
+anthropic>=1.0
+requests
+streamlit>=1.50
+opencv-python
+pillow
+pandas        # dashboard tables
+lap>=0.5.12   # used by Ultralytics trackers

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+models/
+data/
+outputs/
+runs/
+*.pt
+*.onnx
+*.engine
+*.ts
+*.log
+.claude/
+portfolio/upwork_text.md
+.streamlit/secrets.toml
+Thumbs.db
+.DS_Store
