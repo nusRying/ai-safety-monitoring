@@ -1,0 +1,6 @@
+# Optional: TensorRT export (NVIDIA GPU). See README "TensorRT".
+# Install nvidia-modelopt before exporting: Ultralytics otherwise tries to install it mid-export.
+tensorrt-cu12
+onnx
+onnxslim
+nvidia-modelopt[onnx]
