@@ -1,0 +1,37 @@
+Proprietary License - All Rights Reserved
+
+Copyright (c) 2026 Umair Ejaz. All rights reserved.
+
+This repository, including all source code, documentation, configuration files, images and
+other materials (the "Software"), is the proprietary property of Umair Ejaz (the "Owner").
+
+1. Viewing only. The Software is published publicly for portfolio and demonstration purposes.
+   You may view it on GitHub, and GitHub's Terms of Service allow you to fork it on GitHub.
+   No other rights are granted.
+
+2. No use without a paid license. Without a separate written license agreement signed by the
+   Owner, and payment of the agreed fee, you may NOT:
+   a. use, run or deploy the Software, in whole or in part, for any purpose, commercial or
+      non-commercial;
+   b. copy, reproduce, modify, adapt, translate or create derivative works of it;
+   c. distribute, sublicense, sell, lease, publish or otherwise make it available to anyone;
+   d. incorporate any part of it into another product, service, model or dataset;
+   e. use it, or its outputs, to train or evaluate machine-learning models.
+
+3. Commercial licensing. To obtain a license for any of the uses above, contact the Owner
+   through GitHub (https://github.com/nusRying). Licenses are granted only in writing and at the
+   Owner's discretion.
+
+4. Third-party components. The Software uses third-party libraries, models and datasets that
+   are subject to their own licenses (for example Ultralytics YOLO, which is AGPL-3.0 or
+   commercially licensed, and the Construction-PPE dataset). This license does not grant any
+   rights to those components; obtaining the necessary rights to them is your responsibility.
+
+5. No warranty. The Software is provided "as is", without warranty of any kind, express or
+   implied, including warranties of merchantability, fitness for a particular purpose and
+   non-infringement. In no event shall the Owner be liable for any claim, damages or other
+   liability arising from, out of or in connection with the Software or its use.
+
+6. Termination. Any use of the Software in breach of this license is unauthorized and may
+   violate copyright law. Any rights granted under a separate written license terminate
+   automatically if its terms are breached.
