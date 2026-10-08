@@ -1,0 +1,12 @@
+{
+  "zones": [
+    {
+      "name": "Crane swing area",
+      "polygon": [[0.22, 0.62], [0.52, 0.62], [0.56, 0.98], [0.18, 0.98]],
+      "restricted": false,
+      "max_dwell_s": 3,
+      "max_occupancy": 1,
+      "require": ["helmet"]
+    }
+  ]
+}
